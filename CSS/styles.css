@@ -79,7 +79,7 @@ a{
 .graphics-design{
     width: 25%;
     float: right;
-    margin-right: 30px;
+    margin: auto;
 }
 
 hr{
